@@ -1,6 +1,6 @@
-# Hackathons
+# Eventat
 
-This repository showcases my participation in various hackathons and technical events. 
+This repository showcases my participation in various technical events including hackathons, technical events, etc... 
 
 It includes brief descriptions of the challenges tackled and the solutions proposed during each event.
 
