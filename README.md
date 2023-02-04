@@ -1,8 +1,6 @@
 # eventAt
 
-This repository showcases my participation in various technical events including hackathons, technical events, etc... 
-
-It includes brief descriptions of the challenges tackled and the solutions proposed during each event.
+This repository showcases my participation in various technical events like hackathons, webinars, etc. including brief descriptions of the challenges tackled and the solutions proposed during each event.
 
 ## Code Geist (Jul 2019)
 
