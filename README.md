@@ -2,13 +2,21 @@
 
 This repository showcases my participation in various technical events like hackathons, webinars, etc. including brief descriptions of the challenges tackled and the solutions proposed during each event.
 
+## [TIEC](https://tiec.gov.eg) - Hack The Virus (Apr 2020)
+
+Meet My Mentor was an idea which attempted to deliver a platform aimed at building solid mentoring relationships. Our idea was shortlisted among 21 out of 171 ideas and solutions to solve problems that could improve our well being amidst the COVID-19 pandemic.
+
+**References:** [MmM_Pitch](https://drive.google.com/file/d/1hQViF9_QTo-IXwvlMJRqwftGWrVAALrw/view), [MmM_Elevator_Pitch](https://drive.google.com/file/d/1VRJM8dWHnOcOnkm0sK3860kYOWKnM62V/view), [MmM_Logo](https://drive.google.com/file/d/1Dd3jspJ5wGMeWw6dFTb04WTxHHC_rw31/view).
+
 ## NASA Space Apps (Oct 2019)
 
 NASA Space Apps is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage with the National Aeronautics and Space Administration’s free and open data to address real-world problems on Earth and in space.
 
 Our team, Sand and Water, was shortlisted among ~120 teams out of ~550 registered teams with our project, Rising Sand, a web-based geographical information system or GIS with augmented reality or AR sandbox display aiming at helping users visualize the cumulative impacts of rising sea levels and act proactively towards the issues of climate change.
 
-References: [Rising Sand](https://drive.google.com/file/d/16GLeM-BYqgcEFvjxGHvNIWgx4VGrdj27/view), [Certificate of Appreciation](https://drive.google.com/file/d/15Ys_t4bjWVkmAVzmW7Z4QukBXgoNnzr3/view).
+[This is a picture with my teammates, Mohammed Hdrmi and Khaled ElSaka on the hackathon's orientation day.](https://drive.google.com/file/d/1JjszmlfsMG0r9LmeOHgUiC-9WB2iek58/view).
+
+**References:** [Rising Sand](https://drive.google.com/file/d/16GLeM-BYqgcEFvjxGHvNIWgx4VGrdj27/view), [Certificate of Appreciation](https://drive.google.com/file/d/15Ys_t4bjWVkmAVzmW7Z4QukBXgoNnzr3/view).
 
 ## IBM Digital - Nation Competition for Egypt (Jul 2019 - Oct 2019)
 
@@ -18,7 +26,7 @@ Our team had made it to the fourth stage of the competition with our idea, Trash
 
 During the fourth stage, I earned all badges on the IBM Digital - Nation Africa platform becoming its top learner at the time earning me the chance to speak about my experience on the competition's closing day on Saturday, October 26, 2019.
 
-References: [Credly](https://www.credly.com/users/mourad-elsheraey/badges), [Closing Day Presentation](https://drive.google.com/file/d/14CjSLBySU9agqPjYVkqzKJpOSA3tjDoR/view), [Idea Pitch](https://drive.google.com/file/d/1OHhYaV-LdgDYRhXw1M1LuscJWG2AWCI7/view), [Certificate of Appreciation](https://drive.google.com/file/d/1g8oZvC9XcjWNJIIGeAREvPbSqb9TD1fl/view).
+**References:** [Credly](https://www.credly.com/users/mourad-elsheraey/badges), [Closing Day Presentation](https://drive.google.com/file/d/14CjSLBySU9agqPjYVkqzKJpOSA3tjDoR/view), [Idea Pitch](https://drive.google.com/file/d/1OHhYaV-LdgDYRhXw1M1LuscJWG2AWCI7/view), [Certificate of Appreciation](https://drive.google.com/file/d/1g8oZvC9XcjWNJIIGeAREvPbSqb9TD1fl/view).
 
 ## Code Geist (Jul 2019)
 
