@@ -2,6 +2,14 @@
 
 This repository showcases my participation in various technical events like hackathons, webinars, etc. including brief descriptions of the challenges tackled and the solutions proposed during each event.
 
+## NASA Space Apps (Oct 2019)
+
+NASA Space Apps is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage with the National Aeronautics and Space Administration’s free and open data to address real-world problems on Earth and in space.
+
+Our team, Sand and Water, was shortlisted among ~120 teams out of ~550 registered teams with our project, Rising Sand, a web-based geographical information system or GIS with augmented reality or AR sandbox display aiming at helping users visualize the cumulative impacts of rising sea levels and act proactively towards the issues of climate change.
+
+References: [Rising Sand](https://drive.google.com/file/d/16GLeM-BYqgcEFvjxGHvNIWgx4VGrdj27/view), [Certificate of Appreciation](https://drive.google.com/file/d/15Ys_t4bjWVkmAVzmW7Z4QukBXgoNnzr3/view).
+
 ## IBM Digital - Nation Competition for Egypt (Jul 2019 - Oct 2019)
 
 IBM Digital - Nation Competition for Egypt was held under the auspices of the Egyptian Ministry of ICT in collaboration with ITI (MCIT’s technical delivery arm) & AmCham Career Development Center to address critical environmental issues such as air pollution, water pollution, etc.
