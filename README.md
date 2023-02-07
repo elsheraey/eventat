@@ -10,7 +10,7 @@ Meet My Mentor was an idea which attempted to deliver a platform aimed at buildi
 
 ## [STP Machathon 1.0](https://stp-org.com/stp20/machathon-book/machathon-book.html) (Feb 2020)
 
-This was the first iteration of its kind to be delivered by STP involving several companies in the machine learning field. As a representative of Optomatica, I delivered a speech titled "Face Recognition: Tech. that knows you".
+This was the first iteration of its kind to be delivered by STP involving several companies in the machine learning field and representing Optomatica, I delivered a speech titled "Face Recognition: Tech. that knows you".
 
 **References:** [Presentation and Demo](https://drive.google.com/drive/folders/17ZP3pED8RPjmFdsEfZtULZWI3SKcz2Dn).
 
