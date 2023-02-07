@@ -8,6 +8,12 @@ Meet My Mentor was an idea which attempted to deliver a platform aimed at buildi
 
 **References:** [MmM_Pitch](https://drive.google.com/file/d/1hQViF9_QTo-IXwvlMJRqwftGWrVAALrw/view), [MmM_Elevator_Pitch](https://drive.google.com/file/d/1VRJM8dWHnOcOnkm0sK3860kYOWKnM62V/view), [MmM_Logo](https://drive.google.com/file/d/1Dd3jspJ5wGMeWw6dFTb04WTxHHC_rw31/view).
 
+## [STP Machathon 1.0](https://stp-org.com/stp20/machathon-book/machathon-book.html) (Feb 2020)
+
+This was the first iteration of its kind to be delivered by STP involving several companies in the machine learning field. As a representative of Optomatica, I delivered a speech titled "Face Recognition: Tech. that knows you".
+
+**References:** [Presentation and Demo](https://drive.google.com/drive/folders/17ZP3pED8RPjmFdsEfZtULZWI3SKcz2Dn).
+
 ## NASA Space Apps (Oct 2019)
 
 NASA Space Apps is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage with the National Aeronautics and Space Administration’s free and open data to address real-world problems on Earth and in space.
