@@ -49,3 +49,5 @@ I led the team's efforts through the application, screening pitch, development, 
 ## AmCham Egypt 17th Employment Fair (Jul 2019)
 
 I've attended this purely for fun to get to know more about Employment Fair activities and was happy to consult lots of HR professionals on how to perfect one's resume and push through the screening phases.
+
+## [AMECSE](http://2018.amecse-conferences.org/) (Dec 2018)
