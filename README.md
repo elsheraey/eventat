@@ -8,7 +8,7 @@ Meet My Mentor was an idea which attempted to deliver a platform aimed at buildi
 
 **References:** [MmM_Pitch](https://drive.google.com/file/d/1hQViF9_QTo-IXwvlMJRqwftGWrVAALrw/view), [MmM_Elevator_Pitch](https://drive.google.com/file/d/1VRJM8dWHnOcOnkm0sK3860kYOWKnM62V/view), [MmM_Logo](https://drive.google.com/file/d/1Dd3jspJ5wGMeWw6dFTb04WTxHHC_rw31/view).
 
-## [STP Machathon 1.0](https://stp-org.com/stp20/machathon-book/machathon-book.html) (Feb 2020)
+## [STP Machathon 1.0](https://github.com/elsheraey/stp-machathon-1.0) (Feb 2020)
 
 This was the first iteration of its kind to be delivered by STP involving several companies in the machine learning field and representing Optomatica, I delivered a speech titled "Face Recognition: Tech. that knows you".
 
@@ -34,6 +34,10 @@ During the fourth stage, I earned all badges on the IBM Digital - Nation Africa 
 
 **References:** [Credly](https://www.credly.com/users/mourad-elsheraey/badges), [Closing Day Presentation](https://drive.google.com/file/d/14CjSLBySU9agqPjYVkqzKJpOSA3tjDoR/view), [Idea Pitch](https://drive.google.com/file/d/1OHhYaV-LdgDYRhXw1M1LuscJWG2AWCI7/view), [Certificate of Appreciation](https://drive.google.com/file/d/1g8oZvC9XcjWNJIIGeAREvPbSqb9TD1fl/view).
 
+## DevFest GDG Cloud Egypt (Sep 2019)
+
+There was some interesting speakers from Google on this day, and it was the first time I got introduced to Firestore and Qwiklabs, where I could get hands-on experience with the Google Cloud for practice, which paid off a ton later on during my working experience.
+
 ## Code Geist (Jul 2019)
 
 Code Geist is Egypt’s first Hackathon for undergraduates organized by [SefrWahed](https://www.linkedin.com/company/sefrwahedegypt), which follows the standards of any typical hackathon where the event lasts for 72 hours, and for the first time in Egypt with the participation of 200 enlightened students, from more than 30 different educational institutions.
@@ -41,3 +45,7 @@ Code Geist is Egypt’s first Hackathon for undergraduates organized by [SefrWah
 Our team, Shwarma Endeavour, was shortlisted among ~48 competing teams with our project, Colab Lite, a web-based collaborative editor, built to improve educational experiences that involve programming. 
 
 I led the team's efforts through the application, screening pitch, development, and final pitch and even though we didn't really win in the normal sense, it marked our team's first participation in a hackathon and it was a memorable experience.
+
+## AmCham Egypt 17th Employment Fair (Jul 2019)
+
+I've attended this purely for fun to get to know more about Employment Fair activities and was happy to consult lots of HR professionals on how to perfect one's resume and push through the screening phases.
