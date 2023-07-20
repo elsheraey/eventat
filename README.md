@@ -14,6 +14,12 @@ This was the first iteration of its kind to be delivered by STP involving severa
 
 **References:** [Presentation and Demo](https://drive.google.com/drive/folders/17ZP3pED8RPjmFdsEfZtULZWI3SKcz2Dn).
 
+## Getting Started with Face Recognition (Dec 2019)
+
+This was an internal event at Optomatica where I exposed the company to face recognition technology.
+
+**References:** [Presentation and Document](https://drive.google.com/drive/folders/1gbU1Xn_NPV1umJKUkCo_fsWUa7dZ9eUG).
+
 ## NASA Space Apps (Oct 2019)
 
 NASA Space Apps is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage with the National Aeronautics and Space Administration’s free and open data to address real-world problems on Earth and in space.
