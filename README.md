@@ -6,7 +6,7 @@ This repository showcases my participation in various technical events like hack
 
 0Brokers, prior to its shutdown, aspired to be a company that removes the middleman in real estate transactions in three layers, learning the market, automating the process, and then deliver and e2e experience that makes realestate transactions as easy as daily purchases of milk bottles. This presentation was about introducing AI to the team in order to spike their curiousity, and integrate it in our day-2-day processes. 
 
-**References:** [Presentation] https://docs.google.com/presentation/d/1OwoqGLNo7Ypypw1KuZXRmKl20csPmPOP
+**References:** [Presentation](https://docs.google.com/presentation/d/1OwoqGLNo7Ypypw1KuZXRmKl20csPmPOP)
 
 ## [TIEC](https://tiec.gov.eg) - Hack The Virus (Apr 2020)
 
