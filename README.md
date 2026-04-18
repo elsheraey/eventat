@@ -8,6 +8,8 @@ This repository showcases my participation in various technical events like hack
 
 - [0Brokers, AI In Realestate (January 2025)](#0brokers---ai-in-realestate-january-2025)
 - [TIEC, Hack The Virus (April 2020)](#tiec---hack-the-virus-april-2020)
+- [Practical Deep Learning, Chapters 9 & 10 (March 2020)](#practical-deep-learning-chapters-9--10-march-2020)
+- [Seq2Seq (March 2020)](#seq2seq-march-2020)
 - [STP Machathon 1.0 (February 2020)](#stp-machathon-10-february-2020)
 - [Getting Started with Face Recognition (December 2019)](#getting-started-with-face-recognition-december-2019)
 - [NASA Space Apps (October 2019)](#nasa-space-apps-october-2019)
@@ -28,6 +30,18 @@ This repository showcases my participation in various technical events like hack
 Meet My Mentor was an idea which attempted to deliver a platform aimed at building solid mentoring relationships. Our idea was shortlisted among 21 out of 171 ideas and solutions to solve problems that could improve our well being amidst the COVID-19 pandemic.
 
 **References:** [Meet My Mentor pitch deck](https://drive.google.com/file/d/1hQViF9_QTo-IXwvlMJRqwftGWrVAALrw/view), [Meet My Mentor elevator pitch](https://drive.google.com/file/d/1VRJM8dWHnOcOnkm0sK3860kYOWKnM62V/view), [Meet My Mentor logo](https://drive.google.com/file/d/1Dd3jspJ5wGMeWw6dFTb04WTxHHC_rw31/view).
+
+## [Practical Deep Learning, Chapters 9 & 10](./practical-deep-learning-ch9-10) (March 2020)
+
+Internal Optomatica session covering Chapters 9 and 10 of *Practical Deep Learning for Cloud, Mobile, and Edge* (Anirudh Koul, Siddha Ganju, Meher Kasam). Chapter 9 walked the team through scalable inference serving (VMs vs. containers, cost vs. QPS) and included a live demo of [CMU OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) served via [TensorFlow Serving](https://www.tensorflow.org/tfx/serving/architecture). Chapter 10 covered deep learning in the browser with [TensorFlow.js](https://www.tensorflow.org/js) and [ml5.js](https://ml5js.org/).
+
+**References:** [Practical Deep Learning, Chapters 9 & 10 talk and pose-estimation demo](./practical-deep-learning-ch9-10).
+
+## [Seq2Seq](./seq2seq) (March 2020)
+
+Internal Optomatica session on sequence-to-sequence models. Walked the team through the motivation (machine translation, speech recognition, image captioning, video activity recognition), RNN variants (GRU, LSTM, BIRNN), reversed inputs, neural machine translation with attention, BLEU evaluation, and a set of Arabic / Swedish translation experiments.
+
+**References:** [Seq2Seq talk](./seq2seq).
 
 ## [STP Machathon 1.0](./stp-machathon-1.0) (February 2020)
 

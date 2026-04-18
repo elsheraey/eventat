@@ -1,0 +1,4 @@
+https://www.tensorflow.org/tfx/serving/architecture
+https://semiconductor.withgoogle.com/
+https://zaidalyafeai.github.io/
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
